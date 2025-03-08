@@ -67,3 +67,6 @@ Python Programming Language: This is the core language used to write the script.
 Pandas Library: Used for data manipulation and analysis, specifically for reading the CSV file into a DataFrame (pd.read_csv()) and performing calculations on the data.
 FPDF Library: Used for generating PDF documents. This library allows you to create PDF files programmatically, including adding text, formatting, and page layout.
 
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/55b0d96e-a5b3-461a-8915-97ae9481a9ad)
